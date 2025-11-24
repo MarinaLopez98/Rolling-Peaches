@@ -5,7 +5,7 @@ author: Marina Lopez
 tags:
   - "caminar"
   - "antes que correr "
-imgUrl: 
+imgUrl: src/assets/d40b4c3a1e3c2b5029afc2154f905346.jpg
 imgUrlHover: 
 description: "Tratar con ternura, con delicadeza, cuidar del otro."
 ---
