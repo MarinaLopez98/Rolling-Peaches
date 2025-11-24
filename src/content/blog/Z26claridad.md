@@ -1,5 +1,5 @@
 ---
-title: "Oh, love"  
+title: "Para ver con claridad"  
 pubDate: '2021-01-15'
 author: Marina Lopez
 tags:
