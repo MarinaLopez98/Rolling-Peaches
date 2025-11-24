@@ -1,5 +1,5 @@
 ---
-title: "Aprendiendo a caminar"  
+title: "Aprendiendo a caminar" 
 pubDate: '2025-11-24'
 author: Marina Lopez 
 tags:
