@@ -1,7 +1,7 @@
 ---
 title: "Aprendiendo a caminar" 
 pubDate: '2025-11-24'
-author: Marina Lopez 
+author: Marina Lopez  
 tags:
   - "caminar"
   - "sin apresurarse"
