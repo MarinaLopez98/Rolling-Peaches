@@ -1,5 +1,6 @@
 ---
-title: "Sentimientos en movimiento" pubDate: '2025-11-24'
+title: "Sentimientos en movimiento" 
+pubDate: '2025-11-24'
 author: Marina Lopez
 tags:
   - "late"
