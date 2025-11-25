@@ -22,10 +22,10 @@ const posts = await getCollection('blog').then((posts) =>
         Posts destacados
       </h2>
       <div class='hidden md:block'>
-        <Button color='#B5E2F6' href='/Rolling-Peaches/blog/'> Ver todo &rarr;</Button>
+        <Button color='#B5E2F6' href='/Rolling-Peaches/blog/'> Ver todos los posts &rarr;</Button>
       </div>
       <div class='block md:hidden'>
-        <Button color='#B5E2F6' href='/Rolling-Peaches/blog/'>Ver todo</Button>
+        <Button color='#B5E2F6' href='/Rolling-Peaches/blog/'>Ver todos los posts</Button>
       </div>
     </div>
     <BlogList posts={posts} />
