@@ -6,7 +6,7 @@ tags:
   - Recuerdos
   - Y dulces
 imgUrl: src/assets/pajarito-llave.jpeg
-imgUrlHover: src/assets/2d818c17632527edfd5894cd8f2fe423.jpg
+imgUrlHover: src/assets/ed7078a70394e03009237c7f3c22e719.jpg
 description: "Hermosa y tristísima mañana."
 
 ---
