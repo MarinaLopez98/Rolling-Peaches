@@ -7,11 +7,10 @@ tags:
   - Solo vencida
 imgUrl: src/assets/15681ca9d03bd967abc413d1feb61598.jpg
 imgUrlHover: src/assets/IMG_0484.jpg
-description: "Vae victis. Ay, de los vencidos."
+description: "Sentimientos no encontrados."
 ---
-Celebro. Celebramos. Celebran y sonrío. Y no me puedo creer cuán vacía estoy sin decírselo al otro vencedor. 
-Me pasaré la vida, sin dormir... Los sueños se rompen, tan de golpe.
-Lo que daría por andar con él. 
+Celebro. Celebramos. Celebran y sonrío. Y no me puedo creer cuán vacía me siento. Me queda tanto por crecer, aun sin infancia. No podemos volver atrás.<br> 
+Y los sueños se rompen, tan de golpe.
 
 _En parte inspirada por Nena Daconte, que puedes encontrar en la lista de reproducción_
 
