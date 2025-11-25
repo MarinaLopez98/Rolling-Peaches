@@ -3,13 +3,11 @@ title: "Butter Chicken"
 pubDate: '2025-10-20'
 author: Jordi Lopez
 tags:
-  - "Favorite food"
-  - "Favorite person"
+  - "escrita por mi padre"
 imgUrl: ../../assets/learn alone.jpg 
 imgUrlHover: src/assets/blackcolour.jpg
 description: "No volverá"
 ---
-## ¿Volverá?
 
 Los tiempos aquellos no volverán, como todo,  
 todo aquello no volverá.   
@@ -31,7 +29,7 @@ Pero aquello pasó y no volverá.
 
 El tiempo va evolucionando  
 como una cuenta atrás, pero nada más.  
-Aquellos tiempos, ¿...no volverán?  
+Aquellos tiempos... no volverán. 
 
 FIN
 
