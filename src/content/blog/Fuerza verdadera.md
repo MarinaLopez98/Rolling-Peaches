@@ -6,7 +6,7 @@ tags:
   - "La verdadera fuerza"
   - "No es lo que pensabas"
 imgUrl: src/assets/inner strength.jpg
-imgUrlHover: src/assets/clear skies clear mind.jpg
+imgUrlHover: src/assets/6dc7cd01ce13e0f798b0623b641f4730.jpg
 description: "Admiración y aprendizaje."
 ---
 ## Aprender y llorar
