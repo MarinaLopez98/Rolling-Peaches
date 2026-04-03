@@ -1,37 +1,15 @@
 ---
 title: "Butter Chicken"
 pubDate: '2025-10-20'
-author: Jordi Lopez
+author: Marina Lopez
 tags:
-  - "escrita por mi padre"
+  - no cambiaría por nada del mundo
 imgUrl: ../../assets/learn alone.jpg 
 imgUrlHover: src/assets/blackcolour.jpg
-description: "No volverá"
+description: Lo que de verdad quería decir... 
 ---
 
-Los tiempos aquellos no volverán, como todo,  
-todo aquello no volverá.   
-Aquello fue una aventura, nada,  
-nada, nada más.  
-
-Todo fue solo aquello, pero nada más,  
-Yo quise aquello pero no volverá.  
-Todo aquello fue un resplandor pero nada más.  
-
-¡YO!, quise aquello con amor de verdad,  
-pero todo aquello pasó ya.  
-Triste ventura con mi ingenuidad, nada más,  
-pero aquel tiempo no volverá.  
-
-Esto fue lo que fue pero pasó ya,  
-y a mí me gustaría volver el tiempo atrás.  
-Pero aquello pasó y no volverá.  
-
-El tiempo va evolucionando  
-como una cuenta atrás, pero nada más.  
-Aquellos tiempos... no volverán. 
-
-FIN
+Es que te quiero y espero. Eres mi vida entera. Lo que más quiero en este mundo. ¿Por qué parece tan difícil de decir? Sigue siendo cierto. 
 
 ---
 
