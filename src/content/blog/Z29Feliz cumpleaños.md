@@ -5,7 +5,7 @@ author: Rolling Peaches
 tags:
   - ¡Felicidades!
 imgUrl: "src/assets/tarta para maaz.jpg"
-imgUrlHover: "src/assets/shai.jpg"
+imgUrlHover: "src/assets/20210808_134414.jpg"
 description: "Gracias por nacer."
 ---
 Querido cumpleañero,<br>
