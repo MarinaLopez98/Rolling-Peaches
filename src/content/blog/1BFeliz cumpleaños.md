@@ -3,7 +3,7 @@ title: "Feliz cumpleaños"
 pubDate: '2025-04-30'
 author: Rolling Peaches
 tags:
-  - Felicidades
+  - ¡Felicidades!
 imgUrl: "src/assets/tarta para maaz.jpg"
 imgUrlHover: "src/assets/shai.jpg"
 description: "Gracias por nacer."
