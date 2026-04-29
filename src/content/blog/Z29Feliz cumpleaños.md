@@ -9,6 +9,7 @@ imgUrlHover: "src/assets/shai.jpg"
 description: "Gracias por nacer."
 ---
 Querido cumpleañero,<br>
+<br>
 	_Cumpleaaños feliz, cumpleaaños feliiz, te deseea hoy Ohm, cumpleaaños feliz… ¡Bieen! Que seas un chico exceleente, que seas un chico exceleente, que sea un chico exceleente… ¡Y que cumplas muchos más, que cumplas muchos más, y que nos puedas invitar! Feliiz, feliz en tu díaa, amiguito que Dios te bendigaa, que reine la paz en tu díaa, ¡y que cuumplas muchos más! ¡Bieen! (Procedo a tirarte de las orejas 27 veces, y 28 para el que viene)._<br>
 	<br>
 	Muchas felicidades y gracias por haber nacido este 30 de abril. Por regalar a todos tantas cosas a tantas personas con tu mera existencia, ese eyeliner permanente que es tu beauty mark, esos ojitos llorosos con el gorrito que llevabas cuando eras niño. Tengo uno de ellos que nunca usaste pero guardo con amor y compasión por ese pequeño que no quería una foto. Por ser quien eres. Y por ver la persona que serás.<br>
