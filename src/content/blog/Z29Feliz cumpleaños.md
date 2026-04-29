@@ -8,7 +8,7 @@ imgUrl: "src/assets/tarta para maaz.jpg"
 imgUrlHover: "src/assets/shai.jpg"
 description: "Gracias por nacer."
 ---
-## Querido cumpleañero
+Querido cumpleañero,
 	
 _Cumpleaaños feliz, cumpleaaños feliiz, te deseea hoy Ohm, cumpleaaños feliz… ¡Bieen! Que seas un chico exceleente, que seas un chico exceleente, que sea un chico exceleente… ¡Y que cumplas muchos más, que cumplas muchos más, y que nos puedas invitar! Feliiz, feliz en tu díaa, amiguito que Dios te bendigaa, que reine la paz en tu díaa, ¡y que cuumplas muchos más! ¡Bieen! (Procedo a tirarte de las orejas 27 veces, y 28 para el que viene)._
 ---
