@@ -57,9 +57,9 @@ Pero hoy no es mi día, ni son mis términos los que hemos de seguir desde hace 
 	<br>
 	Te esperaré viendo series maravillosas que nos hacían hablar tanto que un capítulo se convertía en horas. <br>
 	<br>
-Te esperaré soñando que lees con esa voz tan tierna de niño para que pueda dormir una noche de descanso profundo que solo tú parecías saber dar.<br>
+	Te esperaré soñando que lees con esa voz tan tierna de niño para que pueda dormir una noche de descanso profundo que solo tú parecías saber dar.<br>
 <br>
-Te esperaré sin ver los nuevos juegos de miedo ni en stream, en deseos que un día lo juegues para mí como solías hacer. <br>
+	Te esperaré sin ver los nuevos juegos de miedo ni en stream, en deseos que un día lo juegues para mí como solías hacer. <br>
 <br>
 	Te esperaré mientras sigo intentando disculparme con tu familia, cueste el tiempo que cueste. Sanar necesita tiempo y no quiero forzar a nadie aunque siga intentándolo, sin darme por vencida, por el daño causado. <br>
 	<br>
