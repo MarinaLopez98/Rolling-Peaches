@@ -30,6 +30,8 @@ _Cumpleaaños feliz, cumpleaaños feliiz, te deseea hoy Ohm, cumpleaaños feliz�
 
 	Te esperaré tumbaditos Shai y Shesha, Shesha y Shai, en aquel sofá mirando al paraíso antes de dormir. 
 
+	Te esperaré en nuestro inquebrantable equipo... ¡El veneno de avispas mientras tú protegías era la clave!
+	
 	Te esperaré rescatando jabalíes que no dejan de salir de nuestras fronteras, siempre cuidando de nuestros preciosos.
 
 	Te esperaré patinando sobre una isla en el cielo. 
