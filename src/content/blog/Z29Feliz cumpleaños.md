@@ -9,7 +9,8 @@ imgUrlHover: "src/assets/shai.jpg"
 description: "Gracias por nacer."
 ---
 ## Querido cumpleañero
-	Cumpleaaños feliz, cumpleaaños feliiz, te deseea hoy Ohm, cumpleaaños feliz… ¡Bieen! Que seas un chico exceleente, que seas un chico exceleente, que sea un chico exceleente… ¡Y que cumplas muchos más, que cumplas muchos más, y que nos puedas invitar! Feliiz, feliz en tu díaa, amiguito que Dios te bendigaa, que reine la paz en tu díaa, ¡y que cuumplas muchos más! ¡Bieen! (Procedo a tirarte de las orejas 27 veces, y 28 para el que viene).
+	
+_Cumpleaaños feliz, cumpleaaños feliiz, te deseea hoy Ohm, cumpleaaños feliz… ¡Bieen! Que seas un chico exceleente, que seas un chico exceleente, que sea un chico exceleente… ¡Y que cumplas muchos más, que cumplas muchos más, y que nos puedas invitar! Feliiz, feliz en tu díaa, amiguito que Dios te bendigaa, que reine la paz en tu díaa, ¡y que cuumplas muchos más! ¡Bieen! (Procedo a tirarte de las orejas 27 veces, y 28 para el que viene)._
 	Muchas felicidades y gracias por haber nacido este 30 de abril. Por regalar a todos tantas cosas a tantas personas con tu mera existencia, ese eyeliner permanente que es tu beauty mark, esos ojitos llorosos con el gorrito que llevabas cuando eras niño. Tengo uno de ellos que nunca usaste pero guardo con amor y compasión por ese pequeño que no quería una foto. Por ser quien eres. Y por ver la persona que serás.
 	Discúlpame si hago algo de tu desagrado, sé que la persona en la que te quieres convertir y que tanto habrá cambiado quizá no entiende de la Ohm que conocía y que sin duda ha cambiado también. Hay muchas cosas que sigo sin entender pero no dejo de tratar de enmendar.
 	Quiero que sepas que eres el mejor amigo que he tenido, mi familia, un pedazo de mi ser. Y por eso espero que seas comprensivo e indulgente conmigo y entiendas que quiero estar ahí en cada momento, aunque sea esperando. Esperando hasta que necesites, esperando para adaptarme a los términos que pongas y quieras, esperando.
@@ -53,41 +54,22 @@ description: "Gracias por nacer."
 	Te esperaré aunque eso significara conocerte de cero, porque nada me haría más feliz que conocer quien has decidido ser y pasar todo el tiempo que me permitas contigo, una vez más, otros cuatro, ocho, una vida entera.
 	Te esperaré con un pastel preparado, solo para ti en tu cumpleaños.
 	Te esperaré mientras adoro pedacitos y rastros de ti, de tus manos, de tu buen corazón. Caramelos, envoltorios de chocolate, chicles, flores, avecillas, isotónica, vaselinas, la tablet con la que te escribo esta carta… Son demasiados para contar.
-
 	Te esperaré preparando una bufanda, de esas maltrechas que decías adorar mientras que a mí me avergonzaba lo mal hechas que estaban y no lograba mejorar.
-
 	Te esperaré mientras me arrepiento por no superar antes mi miedo y decirte abiertamente que ya te quería. Todo y todas las versiones de ti, dark Yuri, buggy Yuri, apathetic Yuri, hurt Yuri, sleepy Yuri, romantic Yuri, passionate Yuri. Hasta las que no conozco y ojalá lo hiciera. Cómo no quererte.
-
 	Te esperaré mientras recuerdo cuando escribías cada día sin falta lo agradecido que estabas por nuestro día juntos. Tus poemas de mirada pura. Tus días cansados y tus días de silencio. Los días que me perdí de tu frustración o desasosiego sin saberlo por ignorante.
-
 	Te esperaré viviendo una vida más digna.
-
 	Te esperaré en aquel discurso en un país lejano que un lector leyó por mí en coreano, citando que alguien llamado "puchie" lo hizo posible. Viene en el folleto de ganadores, si algún día quieres leerlo. No sentí vergüenza ninguna, ya te lo digo yo.
-
 	Te esperaré sabiendo que el daño que sufriste puede llevar años sanar. Y esperaré.
-
 	Te esperaré para que un día volvamos a celebrar juntos nuestro cumpleaños. Todavía se siente un sueño, incluso cuando miro las velas de tu 26 cumpleaños. ¿Pedirás un deseo este año?
-
 	Te esperaré apoyando en silencio tus deseos que ya no conozco.
-
 	Te esperaré apoyándote en lo que quiera que sean. Si es tu español bien refinado, tu cariño por tu guitarra, el amor por tu moto, tu dedicación al trabajo, tu amor incondicional a tu familia. Tus proyectos. Tus nuevos proyectos, no los de nadie más. Te apoyaré siendo una molestia con gusto e ilusión.
-
 	Te esperaré en la esperanza de que mi regalo llegase a su destino y te gustara, tiempo atrás ya.
-
 	Te esperaré en la basura, donde yacen pedazos de mí que aunque decidiste inútiles, siguen allí. No podrán desaparecer, abandonados en algún lugar. Sigo allí.
-
 	Te esperaré aunque no leas esta carta, que de alguna forma sé que no llegará a su destino pero no me frena de escribirla con todo mi corazón y todo lo que encuentro valioso en este mundo. Quiero lo que ni los alquimistas lograban, lo que el Universo me depara mientras lo busque y no me rinda. Espero y esperaré a que sea el momento correcto si es que este no lo es.
-
 	Te esperaré incluso aunque no sepas que la palabra esperar viene de esperanza.
-
 	Así de importante eres. Y te esperaré en mil lugares y miles de cosas que, seguro, se me quedan en el tintero. Eres mi día a día. Y mi razón de que lo haya. Sé que tu falta de contacto, además de por razones que desconozco, es en parte porque no quieres que espere. Que no espere nada de ti, que pase página, que viva un vida en la que no estás. Pero es mi derecho esperar. Es mi derecho decidir qué partes de mí puedo o quiero quitar. Y siempre voy a elegirte.
-
 	Esperaré tu perdón y la oportunidad de hablar. De estar en tu vida en los términos que quieras. Sé que suena egoísta, pero nada más lejos de la realidad. Quien quiere algo no lo deja ir. Quien quiere a alguien hace lo que sea por enmendar lo que ha roto. Mantener esa promesa y defenderte con uñas y dientes. Ser fuerte para que nunca más tengas que cargar con nadie.
-
 	Sabes que te quiero, pero quiero que lo olvides por si te incomoda. Solo quiero estar ahí, contigo, aunque sea en una carta, el día en que naciste. Eres mi pequeño gran milagro. Te mereces el mejor día, el mejor año y la vida más plena y ligada a los valores y ética que tú decidas. Una vida satisfactoria, una vida rodeada de gente que está contigo y quiere estar contigo. Y que lo hagas saber. Que hagas saber que esa es la vida que quieres. A mí, a todos. Porque simplemente es tu derecho desde el día de hoy, hace 27 años. Desde que naciste, ese es tu derecho. Y rezo y lloro para que eso se respete. Y me arrepiento de no haber sabido que no lo estaba respetando.
-
 	No dejes que te haga sentir pisado ni una vez más. Y permíteme aprender. Si es que Dios quiere darme ese regalo.
-
 	Gracias por ser. Gracias por existir. Gracias por ser una parte de mí. Gracias por haber nacido.
-
 	Con todo el amor que puedas llegar imaginar, Marina.
