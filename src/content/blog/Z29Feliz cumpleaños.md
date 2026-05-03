@@ -13,6 +13,7 @@ Querido cumpleañero,<br>
 	_Cumpleaaños feliz, cumpleaaños feliiz, te deseea hoy Ohm, cumpleaaños feliz… ¡Bieen! Que seas un chico exceleente, que seas un chico exceleente, que sea un chico exceleente… ¡Y que cumplas muchos más, que cumplas muchos más, y que nos puedas invitar! Feliiz, feliz en tu díaa, amiguito que Dios te bendigaa, que reine la paz en tu díaa, ¡y que cuumplas muchos más! ¡Bieen! (Procedo a tirarte de las orejas 27 veces, y 28 para el que viene)._<br>
 	<br>
 	Muchas felicidades y gracias por haber nacido este 30 de abril. Por regalar a todos tantas cosas a tantas personas con tu mera existencia, ese eyeliner permanente que es tu beauty mark, esos ojitos llorosos con el gorrito que llevabas cuando eras niño. Tengo uno de ellos que nunca usaste pero guardo con amor y compasión por ese pequeño que no quería una foto. Por ser quien eres. Y por ver la persona que serás.<br>
+	<br>
 	Discúlpame si hago algo de tu desagrado, sé que la persona en la que te quieres convertir y que tanto habrá cambiado quizá no entiende de la Ohm que conocía y que sin duda ha cambiado también. Hay muchas cosas que sigo sin entender pero no dejo de tratar de enmendar.<br>
 	<br>
 	Quiero que sepas que eres el mejor amigo que he tenido, mi familia, un pedazo de mi ser. Y por eso espero que seas comprensivo e indulgente conmigo y entiendas que quiero estar ahí en cada momento, aunque sea esperando. Esperando hasta que necesites, esperando para adaptarme a los términos que pongas y quieras, esperando. <br>
@@ -51,6 +52,7 @@ Pero hoy no es mi día, ni son mis términos los que hemos de seguir desde hace 
 	Te esperaré mientras vivo en el recuerdo de verte ir a dormir cada noche, y poder despertarte por la mañana para no llegar tarde al trabajo. Aunque fuera culpa mía que te costase levantarte. <br>
 	<br>
 	Te esperaré en playa de Muertos. <br>
+	Te esperaré cantando a todo pulmón. <br>
 	<br>
 	Te esperaré en Florencia. <br>
 	<br>
