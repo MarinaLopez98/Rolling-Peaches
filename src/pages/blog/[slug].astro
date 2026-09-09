@@ -165,8 +165,8 @@ const pubDate = new Date(blogpost.data.pubDate);
       // Clear form
       form.reset();
 
-      // Send email
-      sendEmail(comentario);
+      // Send email notification to owner
+      sendEmailToOwner(comentario);
 
       console.log('Comment processed');
     });
@@ -225,16 +225,32 @@ const pubDate = new Date(blogpost.data.pubDate);
         .replace(/'/g, "&#039;");
     }
 
-    function sendEmail(comentario: Comentario): void {
-      console.log('Sending email...');
+    function sendEmailToOwner(comentario: Comentario): void {
+      console.log('Sending email notification to owner...');
 
       const formData = new FormData();
       formData.append('access_key', 'ac372efb-3a75-42da-9aa0-a90846659aa4');
-      formData.append('subject', 'New comment on blog');
-      formData.append('from_name', 'Blog Maaz-Peaches');
-      formData.append('name', comentario.nombre);
-      formData.append('comment', comentario.texto);
-      formData.append('page_url', window.location.href);
+      formData.append('subject', `🍑 Nuevo comentario en: ${document.title}`);
+      formData.append('from_name', 'Rolling Peaches Blog');
+      formData.append('email', 'marinalo.lm644@gmail.com'); // Your email where you want notifications
+      
+      // Email message for you (the owner)
+      const emailMessage = `
+¡Hola! 
+
+Has recibido un nuevo comentario en tu blog:
+
+📝 Post: ${document.title}
+👤 Nombre: ${comentario.nombre}
+💬 Comentario: ${comentario.texto}
+🕐 Fecha: ${new Date(comentario.fecha).toLocaleString('es-ES')}
+📌 URL: ${window.location.href}
+
+---
+Este es un mensaje automático de tu blog Rolling Peaches.
+      `.trim();
+
+      formData.append('message', emailMessage);
       formData.append('redirect', 'false');
 
       fetch('https://api.web3forms.com/submit', {
@@ -242,12 +258,17 @@ const pubDate = new Date(blogpost.data.pubDate);
         body: formData
       })
       .then(response => {
-        console.log('Email sent');
+        console.log('Notification email sent successfully');
         return response.json();
       })
-      .then(data => console.log('Email response:', data))
+      .then(data => {
+        console.log('Email response:', data);
+        if (data.success) {
+          console.log('✅ Email notification delivered to marinalo.lm644@gmail.com');
+        }
+      })
       .catch(error => {
-        console.warn('Email error:', error);
+        console.warn('Email notification error:', error);
       });
     }
 
