@@ -20,7 +20,7 @@ No soy alguien sumiso, ni lo quiero ser,
 pero es el deseo de que sepas
 que estoy aquí para escuchar.  
 
-Sé que que el que te supere y cierre puertas es lo que deseas,
+Sé que el que te supere y cierre puertas es lo que deseas,
 pero hoy una persona sabia, desgraciadamente, me confirma: no puede ser así.
 Porque fui yo quien pasó ese tiempo contigo,
 y mi compromiso y mi amor
