@@ -8,15 +8,15 @@ imgUrl: src/assets/blackcolour.jpg
 imgUrlHover: src/assets/blackcolour.jpg
 description: Isolated system.
 ---
-En un sistema
-Solo conoce el frío 
-Amolda sus huesos al duro hielo cada día 
-Poco a poco, no necesita más
+En un sistema  
+Solo conoce el frío  
+Amolda sus huesos al duro hielo cada día  
+Poco a poco, no necesita más  
 
-Será porque sí lo quiso
-Alguna vez, en otro tiempo
-Que aún guarda entre lágrimas y arrepentimiento
-Recuerdos de un calor que no volverá
+Será porque sí lo quiso  
+Alguna vez, en otro tiempo  
+Que aún guarda entre lágrimas y arrepentimiento  
+Recuerdos de un calor que no volverá  
 
 ---
 
